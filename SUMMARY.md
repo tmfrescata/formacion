@@ -2,7 +2,6 @@
 
 * [Formación](README.md)
 * [Libros](libros/README.md)
-  * [Amor puro](libros/amor-puro.md)
-  * [Amor puro](libros/amor-puro-je.md)
-* [Amor puro 2](amor-puro-2.md)
+  * [Amor puro](libros/amor-puro-je/README.md)
+    * [Amor Puro \(Google Docs\)](https://docs.google.com/document/d/18bjNcfvZQ_s3Sh8TJMUZ0hqsje_NCpYpmv2kEEol4Rc/edit?usp=sharing)
 
