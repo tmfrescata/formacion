@@ -2,6 +2,10 @@
 
 *Por Jason Evert*
 
+{% embed data="{\"url\":\"https://www.youtube.com/watch?v=t6CNZQ7KIrg\",\"type\":\"video\",\"title\":\"Teología del Cuerpo del varón\",\"description\":\"Jason Evert explica el plan de Dios para la masculinidad a través del prisma de la Teología del Cuerpo de Juan Pablo II.\\n\\nVisita el canal http://www.youtube.com/jasonevert\\nVideo original en: http://www.youtube.com/watch?v=sRTcod83PYI\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/t6CNZQ7KIrg/mqdefault.jpg\",\"width\":320,\"height\":180,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/t6CNZQ7KIrg?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/t6CNZQ7KIrg?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+
+
+
 Si un amor genuino se te ha escapado hasta ahora, o si crees que has encontrado a la persona perfecta y quieres que te resulte bien, o si los reproches y la confusión te han hecho pensar que tal vez no existe el amor con el cual has soñado, las siguientes páginas han sido escritas para ti.
 
 Si eres como yo, te han dicho que el sexo es malo. Pero cuando preguntas por qué, escuchas algo como, "simplemente es malo, así que no lo hagas", o "¡Te vas a contagiar con una enfermedad o vas a terminar embarazada!" Aunque estoy seguro de que sabes que el sexo tiene sus consecuencias ---y pueden ser lamentables si es que ocurren---, estas razones no siempre son convincentes ni suficientes.
