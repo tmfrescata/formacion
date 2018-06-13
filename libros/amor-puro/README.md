@@ -2,8 +2,6 @@
 
 _Por Jason Evert_
 
-[https://www.youtube.com/watch?v=t6CNZQ7KIrg](https://www.youtube.com/watch?v=t6CNZQ7KIrg)
-
 Si un amor genuino se te ha escapado hasta ahora, o si crees que has encontrado a la persona perfecta y quieres que te resulte bien, o si los reproches y la confusión te han hecho pensar que tal vez no existe el amor con el cual has soñado, las siguientes páginas han sido escritas para ti.
 
 Si eres como yo, te han dicho que el sexo es malo. Pero cuando preguntas por qué, escuchas algo como, "simplemente es malo, así que no lo hagas", o "¡Te vas a contagiar con una enfermedad o vas a terminar embarazada!" Aunque estoy seguro de que sabes que el sexo tiene sus consecuencias ---y pueden ser lamentables si es que ocurren---, estas razones no siempre son convincentes ni suficientes.
