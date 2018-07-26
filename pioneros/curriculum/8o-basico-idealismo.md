@@ -14,7 +14,7 @@ Cabe al encargado mostrar el sentido de esa libertad, retando en el sentido de l
 | **Crecimiento del grupo** | • El grupo tiene un coordinador |
 | **Crecimiento en la Rama** | • Tener amigos |
 | **Actividades** | • Visitar las casas unos de otros<br />• Construir cosas manualmente: símbolos |
-| **Temas** | Mística: Bandera, Oración del Pionero, Código del Hombre Nuevo |
+| **Temas** | • Mística: Bandera, Oración del Pionero, Código del Hombre Nuevo |
 | **Schoenstatt** | • Acta de Pre-fundación<br />• Heroes, Congregados<br />• Historia del Padre Kentenich |
 | **Otros temas** | • ¿Cómo es el mundo de hoy? ¿Qué significa ser cristiano en este mundo?<br />• ¿Qué es la libertad? Hombre masificado vs. Hombre libre<br />• Amistad |
 | **Catequesis** | • Biblia en general<br />• Año liturgico: Cuaresma / Adviento |
