@@ -8,8 +8,8 @@ Cabe al encargado mostrar el sentido de esa libertad, retando en el sentido de l
 
 ![](../../.gitbook/assets/etapas-page-1.svg)
 
-| **8º BASICO** | **IDEALISMO - Introducción a los Pioneros** |
-| --- | --- |
+| **8º BASICO** | IDEALISMO - Introducción a los Pioneros |
+| - | - |
 | **Proyecto principal** | • Jornada de grupo. Si posible en una casa fuera de la ciudad |
 | **Crecimiento del grupo** | • El grupo tiene un coordinador |
 | **Crecimiento en la Rama** | • Tener amigos |
@@ -19,4 +19,3 @@ Cabe al encargado mostrar el sentido de esa libertad, retando en el sentido de l
 | **Otros temas** | • ¿Cómo es el mundo de hoy? ¿Qué significa ser cristiano en este mundo?<br />• ¿Qué es la libertad? Hombre masificado vs. Hombre libre<br />• Amistad |
 | **Catequesis** | • Biblia en general<br />• Año liturgico: Cuaresma / Adviento |
 | **Testimonios** | • Proyectos realizados por la Rama<br />• Visita del Consejo |
-
