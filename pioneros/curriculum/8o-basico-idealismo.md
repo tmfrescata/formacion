@@ -8,15 +8,15 @@ Cabe al encargado mostrar el sentido de esa libertad, retando en el sentido de l
 
 ![](../../.gitbook/assets/etapas-page-1.svg)
 
-|  |  |
+| **8º BASICO** | **IDEALISMO - Introducción a los Pioneros** |
 | --- | --- |
 | **Proyecto principal** | • Jornada de grupo. Si posible en una casa fuera de la ciudad |
 | **Crecimiento del grupo** | • El grupo tiene un coordinador |
 | **Crecimiento en la Rama** | • Tener amigos |
-| **Actividades** | • Visitar las casas unos de otros<br />• Construir cosas manualmente: símbolos |
+| **Actividades** | • Visitar las casas unos de otros • Construir cosas manualmente: símbolos |
 | **Temas** | • Mística: Bandera, Oración del Pionero, Código del Hombre Nuevo |
-| **Schoenstatt** | • Acta de Pre-fundación<br />• Heroes, Congregados<br />• Historia del Padre Kentenich |
-| **Otros temas** | • ¿Cómo es el mundo de hoy? ¿Qué significa ser cristiano en este mundo?<br />• ¿Qué es la libertad? Hombre masificado vs. Hombre libre<br />• Amistad |
-| **Catequesis** | • Biblia en general<br />• Año liturgico: Cuaresma / Adviento |
-| **Testimonios** | • Proyectos realizados por la Rama<br />• Visita del Consejo |
+| **Schoenstatt** | • Acta de Pre-fundación • Heroes, Congregados • Historia del Padre Kentenich |
+| **Otros temas** | • ¿Cómo es el mundo de hoy? ¿Qué significa ser cristiano en este mundo? • ¿Qué es la libertad? Hombre masificado vs. Hombre libre • Amistad |
+| **Catequesis** | • Biblia en general • Año liturgico: Cuaresma / Adviento |
+| **Testimonios** | • Proyectos realizados por la Rama • Visita del Consejo |
 
