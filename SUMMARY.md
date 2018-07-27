@@ -8,4 +8,5 @@
   * [Plan general](http://pub.lucidpress.com/plano-pioneiros/)
   * [Curriculum](pioneros/curriculum/README.md)
     * [8º Basico - Idealismo](pioneros/curriculum/8o-basico-idealismo.md)
+* [Cruzados](cruzados.md)
 
