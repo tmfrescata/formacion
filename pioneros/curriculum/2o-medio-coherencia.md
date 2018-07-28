@@ -6,14 +6,17 @@ En segundo medio, todo empieza a ser un poco más serio en lo que toca a las con
 
 El encargado tiene que tener mucha paciencia y sabiduría para, sin juzgar individualmente las acciones donde cada uno pueda haber sido débil \(porque él mismo sabe que también lo es\), continuar a demostrar que vale la pena luchar sin desanimar y que el premio de esta victoria es muy apetecible: Degustar nuestros triunfos junto a María y sentir el amor de Dios en nosotros vale tanto la pena que no tiene comparación con nuestras miserias! El grupo es el ambiente propicio para apoyarnos en la lucha y hacer frente al ambiente adverso en que nos encontramos.
 
+![](../../.gitbook/assets/segundo.svg)
+
 | **2º MEDIO** | **Coherencia - Decisión en el día a día** |
-| - | - |
+| --- | --- |
 | **Proyecto principal** | • Organizar como grupo una actividad para la Rama o en otro ámbito |
-| **Crecimiento del grupo** | • Tener símbolos (oraciones, imágenes) / experiencias que comiencen a identificar el grupo |
-| **Crecimiento en la Rama** | • Tener otros amigos en la Rama y participar en sus actividades (Escuela de Jefes) |
+| **Crecimiento del grupo** | • Tener símbolos \(oraciones, imágenes\) / experiencias que comiencen a identificar el grupo |
+| **Crecimiento en la Rama** | • Tener otros amigos en la Rama y participar en sus actividades \(Escuela de Jefes\) |
 | **Actividades** | • Participar juntos como grupo en celebraciones de la Iglesia y eventos publicos de vida cristiana |
 | **Mística** | • Capital de gracias |
-| **Schoenstatt** | • Santidad de la vida diaria<br />• ¿Porqué Schoenstatt?<br />• Horario Espiritual |
-| **Temas** | • Nuestra familia<br />• Carrete, trago, drogas<br />• Copiar en las pruebas |
-| **Catequesis** | • Jesús en los Evangelios<br />• Santos |
+| **Schoenstatt** | • Santidad de la vida diaria • ¿Porqué Schoenstatt? • Horario Espiritual |
+| **Temas** | • Nuestra familia • Carrete, trago, drogas • Copiar en las pruebas |
+| **Catequesis** | • Jesús en los Evangelios • Santos |
 | **Testimonios** | • Ejemplos de vida cristiana en la sociedad |
+
