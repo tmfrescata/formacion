@@ -6,3 +6,8 @@ Cuarto medio es un año de transición hacia algo nuevo que es el mundo universi
 
 El encargado debe recordar al grupo que la vida consiste no tanto en una realidad estática, como un crecimiento permanente que tiene etapas. Es importante entrar en la dinámica de la gratitud respecto del camino recorrido y ponerse de acuerdo para seguir adelante con mucha esperanza porque se viene algo nuevo y muy bueno, la Rama de los Universitarios.
 
+| **4º MEDIO** | **Recomenzar - Prepararse para algo nuevo** |
+| **Proyecto principal** | • Volver a las raíces: Historia del Grupo |
+| **Crecimiento del grupo** | • Jornada larga de evaluación de los Pioneros, el camino recorrido |
+| **Crecimiento en la Rama** | • Valorar todos los aportes que se puedan dar como hermanos mayores |
+| **Actividades** | • Visita de los Universitarios (hacia final de año) |
