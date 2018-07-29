@@ -1,6 +1,6 @@
 # Amor puro \(Jason Evert\)
 
-_Por Jason Evert_
+{% file src="../.gitbook/assets/amor-puro-jason-evert.pdf" caption="Amor Puro \(Jason Evert\)" %}
 
 {% embed data="{\"url\":\"https://www.youtube.com/watch?v=t6CNZQ7KIrg\",\"type\":\"video\",\"title\":\"Teología del Cuerpo del varón\",\"description\":\"Jason Evert explica el plan de Dios para la masculinidad a través del prisma de la Teología del Cuerpo de Juan Pablo II.\\n\\nVisita el canal http://www.youtube.com/jasonevert\\nVideo original en: http://www.youtube.com/watch?v=sRTcod83PYI\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/t6CNZQ7KIrg/mqdefault.jpg\",\"width\":320,\"height\":180,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/t6CNZQ7KIrg?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/t6CNZQ7KIrg?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
 
@@ -364,7 +364,7 @@ Al igual que proteger tu cuerpo, tienes que proteger tu corazón y tu mente tamb
 
 ## Para los hombres, ¿no es imposible tener una mente pura?
 
-. Hay una batalla entre el amor y la pasión egoísta \(lujuria\) en todos nosotros. Pero, al ser hombres de oración, podemos conquistar la tentación y aprender a amar a las mujeres en vez de usarlas.
+Tener deseos sexuales no es malo. Es normal y sano. Pero debemos gobernar nuestra imaginación, limpiar nuestras conversaciones y dejar de mirar a las chicas como objetos. Jesús dijo, "Pero yo les digo: Todo el que mira a una mujer deseándola, ya cometió adulterio con ella en su corazón" \(Mat. 5:28\). Y recordemos, el Papa Juan Pablo II dice que no debemos tenerle miedo a estas palabras sino tener plena confianza en Su poder para sanarnos y ayudarnos en lo que nos falta. Hay una batalla entre el amor y la pasión egoísta \(lujuria\) en todos nosotros. Pero, al ser hombres de oración, podemos conquistar la tentación y aprender a amar a las mujeres en vez de usarlas.
 
 Si alguna vez has luchado o hecho artes marciales, sabes que cuando tomas y apuntas la cabeza de tu contrincante, su cuerpo le seguirá. Lo mismo es verdadero con tu mente. Hazte dueño de tus pensamientos sexuales y encontrarás la disciplina y el dominio sobre tu cuerpo. Cuando una tentación sexual te llegue a la mente, para, detente y reza por pureza, y luego reza por la persona que te tienta.
 
