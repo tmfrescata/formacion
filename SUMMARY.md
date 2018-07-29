@@ -13,8 +13,8 @@
 
 ## Pioneros
 
-* [Plan general](http://pub.lucidpress.com/plano-pioneiros/)
 * [Curriculum](pioneros/curriculum/README.md)
+  * [Plan general](http://pub.lucidpress.com/plano-pioneiros/)
   * [8º Basico - Idealismo](pioneros/curriculum/8o-basico-idealismo.md)
   * [1º Medio - Ser Hombre](pioneros/curriculum/1o-medio-ser-hombre.md)
   * [2º Medio - Coherencia](pioneros/curriculum/2o-medio-coherencia.md)
