@@ -8,7 +8,7 @@
 
 ## Cruzados
 
-* [Cruzados](cruzados/cruzados.md)
+* [Estructura](cruzados/estructura.md)
 * [Fichas](cruzados/fichas/README.md)
   * [Moisés](cruzados/fichas/moises.md)
 
