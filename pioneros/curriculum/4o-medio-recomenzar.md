@@ -9,7 +9,7 @@ El encargado debe recordar al grupo que la vida no es estática sino un proceso 
 ![](../../.gitbook/assets/cuarto.svg)
 
 | **4º MEDIO** | **Recomenzar - Prepararse para algo nuevo** |
-| --- | --- |
+| :--- | :--- |
 | **Proyecto principal** | • Volver a las raíces: Historia del Grupo |
 | **Crecimiento del grupo** | • Jornada larga de evaluación de los Pioneros, el camino recorrido |
 | **Crecimiento en la Rama** | • Valorar todos los aportes que se puedan dar como hermanos mayores |

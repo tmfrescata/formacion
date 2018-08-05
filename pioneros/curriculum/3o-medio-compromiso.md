@@ -9,7 +9,7 @@ El desafío del encargado es hacer con que cada uno se sienta verdaderamente ún
 ![](../../.gitbook/assets/tercero.svg)
 
 | **3º MEDIO** | **Compromiso - Asumir responsabilidades al servicio de otros** |
-| --- | --- |
+| :--- | :--- |
 | **Proyecto principal** | • Descubrir el nombre de Grupo |
 | **Crecimiento del grupo** | • Creer en la historia de grupo como un camino y un proyecto de Dios. La reunión de grupo es algo sagrado |
 | **Crecimiento en la Rama** | • Acercarse a los más chicos y cuidar de ellos paternalmente \(Consejo\) |

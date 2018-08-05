@@ -9,7 +9,7 @@ El encargado tiene el rol de dejar que muchas cosas pasen \(para después evalua
 ![](../../.gitbook/assets/primero.svg)
 
 | **1º MEDIO** | **Ser Hombre - Introducción a los Pioneros** |
-| --- | --- |
+| :--- | :--- |
 | **Proyecto principal** | • Experiencia de grupo en el Santuario. Oración con tiempo y elección del Jefe |
 | **Crecimiento del grupo** | • Elección del Jefe de Grupo |
 | **Crecimiento en la Rama** | • Sentirme único e imprescindible en mi grupo de vida |

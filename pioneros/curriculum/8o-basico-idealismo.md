@@ -9,7 +9,7 @@ Cabe al encargado mostrar el sentido de esa libertad, retando en el sentido de l
 ![](../../.gitbook/assets/octavo.svg)
 
 | **8º BASICO** | **Idealismo - Introducción a los Pioneros** |
-| --- | --- |
+| :--- | :--- |
 | **Proyecto principal** | • Jornada de grupo. Si posible en una casa fuera de la ciudad |
 | **Crecimiento del grupo** | • El grupo tiene un coordinador |
 | **Crecimiento en la Rama** | • Tener amigos |

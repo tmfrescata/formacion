@@ -9,7 +9,7 @@ El encargado tiene que tener mucha paciencia y sabiduría para, sin juzgar indiv
 ![](../../.gitbook/assets/segundo.svg)
 
 | **2º MEDIO** | **Coherencia - Decisión en el día a día** |
-| --- | --- |
+| :--- | :--- |
 | **Proyecto principal** | • Organizar como grupo una actividad para la Rama o en otro ámbito |
 | **Crecimiento del grupo** | • Tener símbolos \(oraciones, imágenes\) / experiencias que comiencen a identificar el grupo |
 | **Crecimiento en la Rama** | • Tener otros amigos en la Rama y participar en sus actividades \(Escuela de Jefes\) |
