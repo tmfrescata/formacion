@@ -1,6 +1,6 @@
 # Moisés
 
-Nada
+{% file src="../../.gitbook/assets/moises \(1\).pdf" caption="Ficha Moisés" %}
 
 ![](../../.gitbook/assets/moises.jpg)
 
@@ -51,4 +51,6 @@ Con todo eso, el Faraón aún no se rindió y persiguió al pueblo de Israel has
 ### La tierra prometida
 
 Moisés continuó su misión de llevar al pueblo de Dios hasta la tierra prometida. En el camino por el desierto, el pueblo recibió los 10 mandamientos dados por Dios. Pasaron sed y hambre y hubo una roca que vertió agua y el maná que cayó del cielo. Moisés llegó a la tierra prometida, pero no llegó a pisarla.
+
+
 
