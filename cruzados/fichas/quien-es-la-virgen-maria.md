@@ -1,5 +1,7 @@
 # ¿Quién es la Virgen María?
 
+{% file src="../../.gitbook/assets/virgen-maria.pdf" caption="¿Quién es la Virgen María?" %}
+
 María es Madre de Jesús \(Madre de Dios\) y Madre de todos los hombres. Aceptó dar a luz al Hijo de Dios, pero también durante toda su vida ayudó a Jesús en su misión de salvar el mundo. Por eso, es madre de todos los hombres que son hijos de Dios.
 
 ### En el Santuario
