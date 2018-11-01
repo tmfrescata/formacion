@@ -13,7 +13,7 @@
   * [Moisés](cruzados/fichas/moises.md)
   * [¿Quién es la Virgen María?](cruzados/fichas/quien-es-la-virgen-maria.md)
 * [Juegos](cruzados/juegos/README.md)
-  * [Pisar la cola del dragón](cruzados/juegos/cola_del_dragon.md)
+  * [Atrapar la cola del dragón](cruzados/juegos/cola_del_dragon.md)
 
 
 ## Pioneros
