@@ -1,12 +1,14 @@
-# **Día de Todos los Santos**
+# Día de Todos los Santos
 
-{% file src="../../.gitbook/assets/todos-los-santos.pdf" caption="Día de Todos los Santos (PDF)" %}
+{% file src="../../.gitbook/assets/todos-los-santos.pdf" caption="Día de Todos los Santos \(PDF\)" %}
 
-{% file src="../../.gitbook/assets/todos-los-santos.docx" caption="Día de Todos los Santos (DOCX)" %}
+{% file src="../../.gitbook/assets/todos-los-santos.docx" caption="Día de Todos los Santos \(DOCX\)" %}
 
-![Fra Angelico - Coronación de María](todos-los-santos.jpg)
+![Fra Angelico - Coronaci&#xF3;n de Mar&#xED;a](../../.gitbook/assets/todos-los-santos.jpg)
 
-**¿Cuándo empezó a celebrarse esta fiesta? **
+
+
+**¿Cuándo empezó a celebrarse esta fiesta?** 
 
 Comenzó por ser una celebración de los mártires en el imperio romano.
 
@@ -14,7 +16,7 @@ Comenzó por ser una celebración de los mártires en el imperio romano.
 
 A medida que fue aumentando el número de mártires que habían muerto en el mismo lugar y día, pasaron a ser recordados en grupo el mismo día. Había cristianos que eran martirizados en grupos y por eso ya eran recordados así. Sin embargo, sólo en el s. IV es que hay registro de haber un día en que se celebraba en conjunto todos los mártires.
 
-Tres siglos más tarde el Papa Bonifacio IV (que murió en 615) transformó un templo romano dedicado a todos los dioses (Panteón) en un templo cristiano y lo dedicó a "Todos los Santos", a todos los que nos precedieron en la fe. La fiesta en honor de Todos los Santos, inicialmente era celebrada el 13 de mayo, pero el Papa Gregorio III (que murió en 741) cambió la fecha para el 1 de noviembre, que era el día de la dedicación de la capilla de Todos los Santos Basílica de San Pedro, en Roma. Más tarde, en el año 840, el Papa Gregorio IV ordenó que la fiesta de Todos los Santos fuera celebrada universalmente en toda la Iglesia.
+Tres siglos más tarde el Papa Bonifacio IV \(que murió en 615\) transformó un templo romano dedicado a todos los dioses \(Panteón\) en un templo cristiano y lo dedicó a "Todos los Santos", a todos los que nos precedieron en la fe. La fiesta en honor de Todos los Santos, inicialmente era celebrada el 13 de mayo, pero el Papa Gregorio III \(que murió en 741\) cambió la fecha para el 1 de noviembre, que era el día de la dedicación de la capilla de Todos los Santos Basílica de San Pedro, en Roma. Más tarde, en el año 840, el Papa Gregorio IV ordenó que la fiesta de Todos los Santos fuera celebrada universalmente en toda la Iglesia.
 
 **¿Que significa?**
 
@@ -32,4 +34,5 @@ Sin embargo, los Pastorcitos nos decían también para rezar por esas almas que 
 
 **El día antes: 31 de octubre — orígenes cristianos de Halloween**
 
-Como la fiesta de Todos los Santos era muy popular, también comenzó a celebrarse el día anterior por la tarde o vigilia, que prepara la fiesta el día anterior (31 de octubre). En la traducción al inglés, esa vigilia era llamada "All Hallows Eve", pasando después por las formas "All Hallowed Eve" y "All Hallow Een" hasta llegar a la palabra actual "Halloween". Hoy en día Halloween es una diversión y una moda, pero no tiene nada que ver con nuestra fe. Hay personas que creen en la brujería, en los espíritus de los muertos y en otros fenómenos paranormales, cosas que tiran al área de lo desconocido. Sin embargo, nada de eso tiene ningún tipo de fundamento científico.
+Como la fiesta de Todos los Santos era muy popular, también comenzó a celebrarse el día anterior por la tarde o vigilia, que prepara la fiesta el día anterior \(31 de octubre\). En la traducción al inglés, esa vigilia era llamada "All Hallows Eve", pasando después por las formas "All Hallowed Eve" y "All Hallow Een" hasta llegar a la palabra actual "Halloween". Hoy en día Halloween es una diversión y una moda, pero no tiene nada que ver con nuestra fe. Hay personas que creen en la brujería, en los espíritus de los muertos y en otros fenómenos paranormales, cosas que tiran al área de lo desconocido. Sin embargo, nada de eso tiene ningún tipo de fundamento científico.
+
