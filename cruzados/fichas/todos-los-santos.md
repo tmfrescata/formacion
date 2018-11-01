@@ -1,6 +1,6 @@
 # **Día de Todos los Santos**
 
-![todos-los-santos](/Users/tiago/Documents/GitHub/juventud-masculina/formacion/cruzados/fichas/todos-los-santos.jpg)
+![Fra Angelico - Coronación de María](todos-los-santos.jpg)
 
 **¿Cuándo empezó a celebrarse esta fiesta? **
 
