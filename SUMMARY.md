@@ -14,7 +14,7 @@
   * [¿Quién es la Virgen María?](cruzados/fichas/quien-es-la-virgen-maria.md)
 * [Juegos](cruzados/juegos/README.md)
   * [Atrapar la cola del dragón](cruzados/juegos/cola_del_dragon.md)
-
+  * [Pisa el globo](cruzados/juegos/pisa_el_globo.md)
 
 ## Pioneros
 
