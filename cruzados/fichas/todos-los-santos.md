@@ -1,5 +1,9 @@
 # **Día de Todos los Santos**
 
+{% file src="../../.gitbook/assets/todos-los-santos.pdf" caption="Día de Todos los Santos (PDF)" %}
+
+{% file src="../../.gitbook/assets/todos-los-santos.docx" caption="Día de Todos los Santos (DOCX)" %}
+
 ![Fra Angelico - Coronación de María](todos-los-santos.jpg)
 
 **¿Cuándo empezó a celebrarse esta fiesta? **
