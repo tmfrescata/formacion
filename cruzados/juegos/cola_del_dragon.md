@@ -1,4 +1,4 @@
-# Atrapa la cola del dragón
+# Atrapar la cola del dragón
 
 Este es un juego tradicional chino en el que los niños interpretan a uno  de sus dragones tradicionales. Se sortea la persona que hará de cabeza y  luego los demás hacen una fila detrás de él, colocando sus brazos  extendidos sobre los hombros del niño que tienen delante. El último será  la cola del dragón.
 
